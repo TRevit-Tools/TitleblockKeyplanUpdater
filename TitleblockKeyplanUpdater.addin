@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command TitleblockKeyplanUpdater</Text>
+    <Description>Some description for TitleblockKeyplanUpdater</Description>
+    <Assembly>TitleblockKeyplanUpdater.dll</Assembly>
+    <FullClassName>TitleblockKeyplanUpdater.TitleBlockParameterUpdater</FullClassName>
+    <ClientId>f451e4e6-16d7-4a93-b2d3-9be8be56cc21</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn><!--
+  <AddIn Type="Application">
+    <Name>Application TitleblockKeyplanUpdater</Name>
+    <Assembly>TitleblockKeyplanUpdater.dll</Assembly>
+    <FullClassName>TitleblockKeyplanUpdater.App</FullClassName>
+    <ClientId>5e4ddb9c-fc5f-459b-9f12-2ad231e340d6</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn> -->
+</RevitAddIns>
